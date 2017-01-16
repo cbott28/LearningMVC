@@ -19,6 +19,6 @@ namespace LearningMVC.Models
 
         public Artist Artist { get; set; }
 
-        public List<Review> Review { get; set; }
+        public List<Review> Reviews { get; set; }
     }
 }
